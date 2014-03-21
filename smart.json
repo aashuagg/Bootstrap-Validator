@@ -1,0 +1,9 @@
+{
+    "name": "Bootstrap-Validator",
+    "description": "bootstrapvalidator packaging for meteor JS.",
+    "author": "Aashu",
+    "homepage": "https://github.com/aashuagg/Bootstrap-Validator",
+    "version": "0.0.1",
+    "git": "https://github.com/aashuagg/Bootstrap-Validator.git",
+    "packages": {}
+}
