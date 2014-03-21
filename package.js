@@ -1,5 +1,5 @@
 Package.describe({
-  summary: 'bootstrapvalidator packaging for meteor js - validate forms and use bootstrap 3 to show errors'
+  summary: 'bootstrapValidator to validate forms and use bootstrap 3 to show errors'
 });
 
 Package.on_use(function(api) {
